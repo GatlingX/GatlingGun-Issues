@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="x.com/gatling_x">
+  <a href="https://x.com/gatling_x">
     <img src="https://img.shields.io/twitter/follow/gatling_x?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X">
   </a>
   <a href="https://t.me/+DwI1FhzS6hxkZmI0">
